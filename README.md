@@ -80,6 +80,4 @@ Access: `http://localhost:5173` # Your port could be different
 
 [MIT License](https://github.com/ManNjoro/federated_learning/blob/main/LICENSE) - See LICENSE for details.
 
-## 📬 Contact
 
-For questions or collaborations, please open an issue or contact [elijohnmwoho@gmail.com].
