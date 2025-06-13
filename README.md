@@ -24,7 +24,7 @@ A privacy-preserving system that enables hospitals to collaboratively train diab
 
 ```bash
 # Clone repo
-git clone https://github.com/ManNjoro/federated_learning.git
+git clone https://github.com/LorraineKN/federated_learning.git
 cd federated_learning
 
 # Set up Python
@@ -62,22 +62,6 @@ Access: `http://localhost:5173` # Your port could be different
 - View real-time diabetes risk predictions
 - See explainable AI insights
 
-## 📸 Screenshots
 
-### Dashboard
-
-![Dashboard](https://github.com/ManNjoro/federated_learning/blob/main/screenshots/dashboard.png)
-
-### Patient Data Upload
-
-![Patient Data Upload](https://github.com/ManNjoro/federated_learning/blob/main/screenshots/patient_upload.png)
-
-### Model Training
-
-![Model Training](https://github.com/ManNjoro/federated_learning/blob/main/screenshots/model_training.png)
-
-## 📜 License
-
-[MIT License](https://github.com/ManNjoro/federated_learning/blob/main/LICENSE) - See LICENSE for details.
 
 
